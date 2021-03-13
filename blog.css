@@ -1,0 +1,50 @@
+body {
+    background:#F6F2EF;
+}
+.sx {
+    position: absolute;
+width: 100vw;
+height: 60px;
+background-color: #E6CEC2;
+left: 0px;
+top: 80px;
+text-align:center;
+font-size:1.5rem;
+font-weight:bolder;
+text-shadow: 2px 2px white;
+}
+.alli{
+    position: absolute;
+    top: -12px;
+width: 291px;
+height: 73px;
+
+font-family: 'Merienda One', cursive;
+font-weight:bolder;
+}
+.hd{
+    position: absolute;
+    left: 45px;
+    top: -12px;
+    color: #F86491;
+    font-size:2rem;
+}
+.uni{
+    color: #FF7D21;
+}
+.hm{
+    font-weight: bolder;
+    font-size: 18px;
+    color: black;
+    text-shadow: 1.5px 1.5px #d4ae9a;
+}
+img{
+    position: absolute;
+    left:-50px;
+    top:0px;
+}
+.fb-comments{
+    position: absolute;
+    left:0px;
+    top: 250px;
+}

@@ -1,0 +1,146 @@
+body{
+    background: #F6F6F6;
+    margin: 0;
+    padding: 0;
+}
+
+section#particles-js{
+    top: 0;
+    width: 100%;
+    height: 200vh;
+    background: #F6F6F6;
+}
+
+.logo{
+    position: absolute;
+    width: 77px;
+    height: 68px;
+    left: 600px;
+    top: 20px;
+    background: linear-gradient(180.1deg, #FFFFFF -37.29%, rgba(255, 255, 255, 0) 99.91%);
+}
+
+.name{
+    display: inline;
+    position: absolute;
+    width: 330px;
+    height: 71px;
+    font-family: 'Merienda One', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 87px;
+    text-align: center;
+    color: #F86491;
+}
+#care{
+    left: 674px;
+    top: 20px;
+    color: #FF7D21;
+}
+#she{
+    left: 570px;
+    top: 20px;
+    color: #F86491;
+}
+
+.strip{
+    position: absolute;
+    width: 100%; 
+    height: 80px;
+    left: 0px;
+    top: 115px;
+    background: rgba(253, 154, 179, 0.25);
+}
+
+.blogbox{
+    position: absolute;
+    width: 312px;
+    height: 57px;
+    left: 33px;
+    top: 126px;
+    background: #F86491;
+    border-radius: 50px;
+}
+
+.blog{
+    position: absolute;
+    width: 265px;
+    height: 31px;
+    left: 55px;
+    top: 137px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FEE5EC;
+    text-decoration: none;
+}
+
+.homebox{
+    position: absolute;
+    width: 140px;
+    height: 57px;
+    /* left: 1360px; */
+    right: 33px;
+    top: 126px;
+    background: #F86491;
+    border-radius: 50px;
+}
+
+.home{
+    position: absolute;
+    width: 109px;
+    height: 31px;
+    /* left: 1373px; */
+    right: 53px;
+    top: 137px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FEE5EC;
+    text-decoration: none;
+}
+
+#about{
+    position: absolute;
+    left: 695px;
+    top: 190px;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(109, 2, 109);
+}
+
+.para{
+    position: absolute;
+    left: 170px;
+    top: 320px;
+    font-size: 20px;
+    width: 1200px;
+}
+
+#team{
+    position: absolute;
+    left: 650px;
+    top: 800px;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(109, 2, 109);
+}
+
+.us{
+    position: absolute;
+    left: 627px;
+    top: 940px;
+    text-align: centre;
+    font-size: 26px;
+}
+#name{
+    color: rgb(3, 3, 146);
+    font-size: 30px;
+}
